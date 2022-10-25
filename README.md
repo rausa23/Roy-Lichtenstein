@@ -5,6 +5,7 @@
        author="Aubrey Rausch"
        banner="https://iiif.juncture-digital.org/banner/?
                url=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thoughtco.com%2Fbiography-of-roy-lichtenstein-pioneer-of-pop-art-4165701&psig=AOvVaw3zbGrZF9YlHbKOHLwo6zKt&ust=1666753741913000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNCwg9Cz-voCFQAAAAAdAAAAABAD
+    
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -21,9 +22,9 @@ Roy Lichtenstein was an American artist born on October 27, 1923, in New York Ci
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-# Basic usage
+# Paintings 
 
-## Image
+## Drowning Girl (1963)
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
@@ -34,19 +35,12 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
-## Map
+## In The Car (1963)
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
 
 # References
 
