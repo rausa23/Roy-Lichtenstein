@@ -17,7 +17,7 @@
 
 # Background
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+Roy Lichtenstein was an American artist born on October 27, 1923, in New York City. He is most famous for his work in the 1960s, creating a movement known as the "pop-art" movement. Pop-art is classified by its satire humor, use of bright color and comic book style graphics. Prior to his influence as an artist, Lichtenstein studied and acheived a masters degree in fine arts at Ohio State University. During his studies at university, Lichtenstein geared his work towards the modern art style. In 1961 he created his first pop-art painting, 'Look Mickey', which became one of his most influential works. The painting was created using cartoonish imagery of the popular character Mickey Mouse. Throughout the 60s, Lichtenstein collaborated with many other artists such as, Andy Warhol and Jasper Johns. Lichtenstein eventually ventured into sculptures and even film-work later in his life. He continued creating up until his death in 1997. His work is now scattered throughout mueseums all around the United States. 
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
