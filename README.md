@@ -1,8 +1,8 @@
 # Roy-Lichtenstein <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
+       title="Roy Lichtenstein"
+       author="Aubrey Rausch"
        banner="https://iiif.juncture-digital.org/banner/?
                url=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thoughtco.com%2Fbiography-of-roy-lichtenstein-pioneer-of-pop-art-4165701&psig=AOvVaw3zbGrZF9YlHbKOHLwo6zKt&ust=1666753741913000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNCwg9Cz-voCFQAAAAAdAAAAABAD
        layout="vertical">
@@ -15,7 +15,7 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# Background
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
