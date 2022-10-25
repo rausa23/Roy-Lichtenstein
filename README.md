@@ -3,7 +3,8 @@
 <param ve-config 
        title="Girl with a Pearl Earring"
        author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thoughtco.com%2Fbiography-of-roy-lichtenstein-pioneer-of-pop-art-4165701&psig=AOvVaw3zbGrZF9YlHbKOHLwo6zKt&ust=1666753741913000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNCwg9Cz-voCFQAAAAAdAAAAABAD
+       banner="https://iiif.juncture-digital.org/banner/?
+               url=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thoughtco.com%2Fbiography-of-roy-lichtenstein-pioneer-of-pop-art-4165701&psig=AOvVaw3zbGrZF9YlHbKOHLwo6zKt&ust=1666753741913000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNCwg9Cz-voCFQAAAAAdAAAAABAD
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
