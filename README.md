@@ -44,4 +44,4 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Wikipedia: Drowning Girl](https://en.wikipedia.org/wiki/Drowning_Girl)
